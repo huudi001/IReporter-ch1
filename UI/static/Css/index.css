@@ -64,3 +64,6 @@ body{
 .form .registration-form{
   display:none;
 }
+h1{
+  text-align: center;
+}
