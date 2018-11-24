@@ -67,8 +67,3 @@ body{
 h1{
   text-align: center;
 }
-footer {
-  display: flex;
-  padding: 20px;
-  justify-content: center;
-}
